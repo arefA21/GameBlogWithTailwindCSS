@@ -14,7 +14,6 @@ export default function Navbar() {
           </h1>
           <ul className="hidden md:flex text-white">
             <li>Home</li>
-            
             <li>About</li>
             <li>Support</li>
             <li>Platform</li>
